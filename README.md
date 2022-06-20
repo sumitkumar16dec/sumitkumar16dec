@@ -5,7 +5,6 @@
 - 📫 You can reach me on -
 -     LinkedIn : https://www.linkedin.com/in/sumit-kumar-07a8661bb/
 -     Email : sk1664839@gmail.com
--     
 
 <!---
 sumitkumar16dec/sumitkumar16dec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
