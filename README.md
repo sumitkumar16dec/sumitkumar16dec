@@ -1,14 +1,6 @@
-- 👋 Hi, I’m Sumit Kumar, a CSE student in my final year at Chandigarh University. I have experience as a Web Development Intern at 'The Sparks Foundation' and 'Oasis Infobyte'.
-- 👀 I’m interested in C++ programming language and web development.
-- 🌱 I’m currently learning DSA in C++, HTML, CSS, PHP, JavaScript, NodeJS, React and about API's.
-- 💞️ I’m looking for an internship as an SDE/SWE. I have experience of GSSoC'22 and Hacktoberfest'21.
-- 📫 You can reach me on -
--     LinkedIn : 
-### https://www.linkedin.com/in/sumitk18
--     Portfolio :
-### https://sumitk18.netlify.app
--     Email : 
-### sk1664839@gmail.com
+- 👋 Hi, I’m Sumit Kumar. I have done my Bachelors in Computer Science and Engineering from Chandigarh University (Global Rank of #575 as per QS University Ranking).
+- 👀 I’m interested in AI, Java, C++ programming language and backend development.
+- 🌱 I’m currently working in Java, Spring, Springboot, Kafka, GCP.
   
 <!---
 sumitkumar16dec/sumitkumar16dec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
