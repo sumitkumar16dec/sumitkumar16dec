@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-- 🔭 I have done my Bachelors in Computer Science and Engineering from Chandigarh University (Global Rank of #575 as per QS University Ranking).
-- 👀 I’m interested in AI, Java, C++ programming language and backend development.
+- 🔭 I have done my Bachelors in Computer Science and Engineering from Chandigarh University (Global Rank of #575 as per QS University Ranking).<br/>
+- 👀 I’m interested in AI, Java, C++ programming language and backend development.<br/>
 - 🌱 I’m currently working in Java, Spring, Springboot, Kafka, GCP.
 
 # 💻 Tech Stack:
