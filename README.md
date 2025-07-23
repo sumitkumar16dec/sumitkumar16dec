@@ -1,5 +1,5 @@
-<img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 👋 Hi, I’m Sumit Kumar. I have done my Bachelors in Computer Science and Engineering from Chandigarh University (Global Rank of #575 as per QS University Ranking).
+<h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
+- 🔭 I have done my Bachelors in Computer Science and Engineering from Chandigarh University (Global Rank of #575 as per QS University Ranking).
 - 👀 I’m interested in AI, Java, C++ programming language and backend development.
 - 🌱 I’m currently working in Java, Spring, Springboot, Kafka, GCP.
 
@@ -16,10 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumitkumar16dec&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sumitkumar16dec&limit=5&theme=radical&combine_all_yearly_contributions=true)
-  
 <!---
 sumitkumar16dec/sumitkumar16dec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
