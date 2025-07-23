@@ -1,3 +1,5 @@
+![logo](https://github.com/ABHISHEK-GHOSAL/ABHISHEK-GHOSAL/blob/main/banner.gif)
+
 - 👋 Hi, I’m Sumit Kumar. I have done my Bachelors in Computer Science and Engineering from Chandigarh University (Global Rank of #575 as per QS University Ranking).
 - 👀 I’m interested in AI, Java, C++ programming language and backend development.
 - 🌱 I’m currently working in Java, Spring, Springboot, Kafka, GCP.
